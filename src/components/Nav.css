@@ -1,0 +1,11 @@
+.nav{
+    width: 100%;
+    top: 25px;
+    left: 10px;
+    position: fixed;
+    padding-left: 10px;
+    padding-top: 10px;
+    z-index: 1;
+    padding: 10px;
+}
+
